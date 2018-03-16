@@ -12,7 +12,7 @@ config.make
 Makefile
 openFrameworks-Info.plist
 Project.xcconfig
-addons.make
+# addons.make
 
 # Win
 *.sdf
@@ -20,7 +20,7 @@ addons.make
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
-addons.make
+# addons.make
 icon.aps
 icon.rc
 obj/*
